@@ -1,1 +1,1 @@
-# MMinimizing the interference of pill coatings for near-IR detection of  substandard and falsified pharmaceuticals
+# Minimizing the interference of pill coatings for near-IR detection of  substandard and falsified pharmaceuticals
