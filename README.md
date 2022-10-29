@@ -37,3 +37,48 @@ from sklearn.model_selection import cross_val_predict, LeaveOneOut
 from sklearn.metrics import r2_score, accuracy_score
 ```
 
+```python
+# Lab Formulated Isonized (IS) were housed in broad range of capsules and probed with NIR spectrometer for regression studies
+
+# Visual inspection of line plot of the raw date from lab formulated Isoniazid in varying capsules when introduced to NIR spectrometer
+
+spectra_1 = pd.read_csv(r'ISCE_data_mg.csv')
+target = pd.read_csv(r'isce_conc.csv')
+
+wv = np.arange(900,1700,3.52) #the wavelength range used for this study
+
+spectra_2 = pd.DataFrame(spectra_1)
+spectra_3 = spectra_2.values[0:,0:]
+spectra_T_n = spectra_3.T
+
+IS_100mg_RAW =spectra_T_n[:,0:300]
+IS_200mg_RAW =spectra_T_n[:,301:524]
+IS_300mg_RAW =spectra_T_n[:,525:776]
+IS_500mg_RAW =spectra_T_n[:,777:1031]
+
+
+fig, ax = plt.subplots(figsize=(8, 4.7))
+loc = ["upper left"]
+ax.plot(wv, IS_100mg_RAW, label='IS_100mg',color='r');
+ax.plot(wv, IS_200mg_RAW, label='IS_200mg',color='b');
+ax.plot(wv, IS_300mg_RAW, label='IS_300mg',color='y');
+ax.plot(wv, IS_500mg_RAW, label='IS_500mg',color='g',ls=':',lw=0.5);
+plt.xlabel('Wavelength (nm)')
+plt.ylabel('Absorbance')
+plt.title("Raw Data")
+
+
+# Fix legend
+hand, labl = ax.get_legend_handles_labels()
+handout=[]
+lablout=[]
+for h,l in zip(hand,labl):
+       if l not in lablout:
+        lablout.append(l)
+        handout.append(h)
+        fig.legend(handout, lablout, bbox_to_anchor=[0.15, 0.9],loc="upper left");
+```
+
+
+<img width="426" alt="Screen Shot 2022-10-29 at 12 25 21 PM" src="https://user-images.githubusercontent.com/68889345/198842513-2a47a254-75aa-42dd-a750-7a3f11543eab.png">
+
