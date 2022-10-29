@@ -1,7 +1,5 @@
+
 # Minimizing the interference of pill coatings for near-IR detection of  substandard and falsified pharmaceuticals
-
-
-
 
 
 
@@ -15,7 +13,7 @@ Binary mixture of Doxycyline hydrate (ALFA AESAR) and alpha-lactose (Sigma) were
 See the supplementary information of our work titled "Minimizing Pill Coatings interference in detection of Fake Pharmaceuticals through Data Pre-treatment" for the lab based formulations used in this work
 
 
-##Import Libraries
+## Import Libraries
 
 
 ```python
