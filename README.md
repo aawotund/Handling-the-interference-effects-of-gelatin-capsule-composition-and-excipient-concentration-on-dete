@@ -15,8 +15,10 @@ Binary mixture of Doxycyline hydrate (ALFA AESAR) and alpha-lactose (Sigma) were
 See the supplementary information of our work titled "Minimizing Pill Coatings interference in detection of Fake Pharmaceuticals through Data Pre-treatment" for the lab based formulations used in this work
 
 
-#Import Libraries
-'''python
+##Import Libraries
+
+
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -35,5 +37,5 @@ from sklearn.metrics import mean_squared_error
 from pyopls import OPLS
 from sklearn.model_selection import cross_val_predict, LeaveOneOut
 from sklearn.metrics import r2_score, accuracy_score
-'''
+```
 
