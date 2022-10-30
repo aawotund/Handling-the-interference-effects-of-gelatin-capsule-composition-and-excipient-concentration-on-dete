@@ -2,7 +2,21 @@
 # Minimizing the interference of pill coatings for near-IR detection of  substandard and falsified pharmaceuticals
 
 
+```
+*Authors: Olatunde Awotunde, (University of Notre Dame) . Email: aawotund@nd.edu (Developed Chemometric Algorthms using python and      
+     
+              The  Unscrambler software, Integrated all the works in Github repository, compose the manuscript)
+  
+    : Jiaqi Lu, (University of Notre Dame) . Email: jlu22@nd.edu  (Generated NIR spectrometer spectra used through out this work)
+    
+    : Jin Cai, (University of Notre Dame) . Email: jcai@nd.edu (Generated NIR spectrometer spectra used through out this work)
+    
+    : Ornella Joseph , (University of Notre Dame) . Email: ojoseph2@nd.edu   (Generated XRF data of the multi-colored capsules )
+    
+    : Alyssa Wicks, (Sapfonte Precise Solutions) . Email: awicks@nd.edu  (Generated SEM images and data of the multi-colored capsules from sanning electron microscope-SEM)                   
+    : Marya Lieberman, (University of Notre Dame) . Email: mlieberm@nd.edu (Advisor)*
 
+```
 
 A portable Near Infra Red (NIR) spectometer was ecplored in this study to probe lab formulated Isoniazid(IS) as well as Doxycycline(DE) samples housed in broad spectrum of coated capsules including capsules made from vegetable cellulose and gelatin. The capsules are of varying opacity which introduce variations similar to real life scenerios associated different capssule coatings by manufacturers.
 
