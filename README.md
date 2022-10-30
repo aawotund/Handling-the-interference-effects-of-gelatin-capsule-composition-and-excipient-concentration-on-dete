@@ -13,7 +13,8 @@
     
     : Ornella Joseph , (University of Notre Dame) . Email: ojoseph2@nd.edu   (Generated XRF data of the multi-colored capsules )
     
-    : Alyssa Wicks, (Sapfonte Precise Solutions) . Email: awicks@nd.edu  (Generated SEM images and data of the multi-colored capsules from sanning electron microscope-SEM)                   
+    : Alyssa Wicks, (Sapfonte Precise Solutions) . Email: awicks@nd.edu  (Generated SEM images and data of the multi-colored capsules from sanning electron microscope-SEM)    
+    
     : Marya Lieberman, (University of Notre Dame) . Email: mlieberm@nd.edu (Advisor)*
 
 ```
