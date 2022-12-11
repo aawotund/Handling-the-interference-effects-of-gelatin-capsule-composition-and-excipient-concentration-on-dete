@@ -10,10 +10,13 @@
     : Jiaqi Lu, (University of Notre Dame) . Email: jlu22@nd.edu  (Generated NIR spectrometer spectra used through out this work)
     
     : Jin Cai, (University of Notre Dame) . Email: jcai@nd.edu (Generated NIR spectrometer spectra used through out this work)
+    : Nicholas Roseboom, (University of Notre Dame) . Email: nroseboo@nd.edu (3D Sample holder design)
+    : Sarah Honegger,  (University of Notre Dame) . Email: shonegge@nd.edu (Responsible for HPLC data acquisition)
     
     : Ornella Joseph , (University of Notre Dame) . Email: ojoseph2@nd.edu   (Generated XRF data of the multi-colored capsules )
     
-    : Alyssa Wicks, (Sapfonte Precise Solutions) . Email: awicks@nd.edu  (Generated SEM images and data of the multi-colored capsules from sanning electron microscope-SEM)    
+    : Alyssa Wicks, (University of Notre Dame) . Email: awicks@nd.edu  (Generated SEM images and data of the multi-colored capsules from sanning electron microscope-SEM)  
+    : Kathleen Hayes, (University of Notre Dame). Email: khayes5@nd.edu (Responsible for HPLC data acquisition)
     
     : Marya Lieberman, (University of Notre Dame) . Email: mlieberm@nd.edu (Advisor)*
 
