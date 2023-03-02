@@ -1,5 +1,5 @@
 
-# Minimizing the interference of pill coatings for near-IR detection of  substandard and falsified pharmaceuticals
+# Minimizing the interference of gelatin capsule composition and excipient concentration on detection of substandard and falsified pharmaceuticals with near-IR spectroscopy
 
 
 ```
