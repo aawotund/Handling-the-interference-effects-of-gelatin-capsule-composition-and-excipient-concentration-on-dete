@@ -1,5 +1,5 @@
 
-# Handling the interference effects of gelatin capsule composition and excipient concentration on detection of substandard and falsified pharmaceuticals with near-IR spectroscopy
+# Mitigating gelatin capsule impact on detection of substandard and falsified pharmaceuticals with near-IR spectroscopy
 
 
 ```
